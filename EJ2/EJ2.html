@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EJ2</title>
+    <link type="text/css" href="css/estilo.css" rel="stylesheets">
+</head>
+<body>
+<h1>EJ2</h1>
+    <p id="tit1">1- Haz una lista con al menos 5 elementos e incluye una sub lista con otros 5 elementos.</p>
+    <p>Equipos de fútbol:</p>
+    <ul>
+        <li>Mejores del mundo</li>
+            <ol>
+                <li>Real Madrid</li>
+                <li>Olympique de Marseille</li>
+                <li>Borussia Dortmund</li>
+                <li>AS Roma FC</li>
+                <li>Manchester United</li>
+            </ol>
+        <li>A nada de ser de los mejores</li>
+            <ol>
+                <li>CD Léganes</li>
+                <li>PSG</li>
+                <li>Bayern Leverkusen</li>
+                <li>Juventus</li>
+                <li>Leeds United</li>
+            </ol>
+        <li>Ni buenos ni malos</li>
+            <ol>
+                <li>Getafe</li>
+                <li>Saint-Étienne</li>
+                <li>Hamburgo</li>
+                <li>AC Milan</li>
+                <li>Liverpool</li>
+            </ol>
+        <li>A nada de estar en ni buenos ni malos</li>
+            <ol>
+                <li>Atletico de Madrid</li>
+                <li>Girondain de Bordeaux</li>
+                <li>Sutgard</li>
+                <li>Inter Milan</li>
+                <li>Manchester City</li>
+            </ol>
+        <li>Peores del mundo</li>
+            <ol>
+                <li>Barcelona(por pagar a los arbitros)</li>
+                <li>Olympique de Lyon</li>
+                <li>Bayern Munich</li>
+                <li>Napoles</li>
+                <li>Chelsea</li>
+            </ol>
+            <br>
+    </ul>
+    <hr>
+    <p class="tit2">2- Haz una tabla que sea el horario de clase (las asignaturas que tengas varias horas tendrán que ir unidas y le pondremos un color de fondo a cada asignatura).</p>
+    <p>Horario de clase:</p>
+    <table border="3">
+        <tr>
+            <th>HORARIO</th>
+            <th>LUNES</th>
+            <th>MARTES</th>
+            <th>MIERCOLES</th>
+            <th>JUEVES</th>
+            <th>VIERNES</th>
+        </tr>
+        <tr>
+            <td>9:00-10:00</td>
+            <td rowspan="3" style="background-color: rgb(56, 131, 161)">PROGRAMACION (Miguel Angel Romero)</td>
+            <td rowspan="2" style="background-color: darkolivegreen;">LENGUAJES DE MARACA (Mariluz Fernandez)</td>
+            <td rowspan="2" style="background-color: lightgreen;">SISTEMAS INFORMÁTICOS (Ana Lopez)</td>
+            <td rowspan="1" style="background-color: mediumorchid;">ITINERARIO PARA EL EMPLEO (Diego Botas)</td>
+            <td rowspan="1" style="background-color: peru;">OPTATIVA (Mariluz Fernandez)</td>
+        </tr>
+        <tr>
+            <td>10:00-11:00</td>
+            <td rowspan="1" style="background-color: darkolivegreen;">LENGUAJES DE MARACA (Mariluz Fernandez)</td>
+            <td rowspan="1" style="background-color: lightgreen;">SISTEMAS INFORMÁTICOS (Ana Lopez)</td>
+        </tr>
+        <tr>
+            <td>11:00-11:50</td>
+            <td rowspan="1" style="background-color: rgb(167, 80, 48);">BASE DE DATOS (Amelia)</td>
+            <td rowspan="1" style="background-color: rgb(56, 131, 161)">PROGRAMACION (Miguel Angel Romero)</td>
+            <td rowspan="1" style="background-color: rgb(167, 80, 48);">BASE DE DATOS (Amelia)</td>
+            <td rowspan="1" style="background-color: peru;">OPTATIVA (Mariluz Fernandez)</td>
+        </tr>
+        <tr>
+            <td>11:50-12:10</td>
+            <td colspan="5">Recreo</td>
+        </tr>
+        <tr>
+            <td>12:10-13:00</td>
+            <td rowspan="3" style="background-color: rgb(167, 80, 48);">BASE DE DATOS (Amelia)</td>
+            <td rowspan="1" style="background-color: rgb(167, 80, 48);">BASE DE DATOS (Amelia)</td>
+            <td rowspan="3" style="background-color: rgb(56, 131, 161)">PROGRAMACION (Miguel Angel Romero)</td>
+            <td rowspan="1" style="background-color: rgb(56, 131, 161)">PROGRAMACION (Miguel Angel Romero)</td>
+            <td rowspan="3" style="background-color: lightgreen;">SISTEMAS INFORMÁTICOS (Ana Lopez)</td>
+        </tr>
+        <tr>
+            <td>13:00-14:00</td>
+            <td rowspan="2" style="background-color: mediumorchid;">ITINERARIO PARA EL EMPLEO (Diego Botas)</td>
+            <td rowspan="2" style="background-color: beige;">ENTORNOS DE DESAROLLO (Mariluz Fernandez)</td>
+        </tr>
+        <tr>
+            <td>14:00-15:00</td>
+        </tr>
+    </table>
+    <hr>
+
+    <p>3- Crea un formulario con los siguientes campos de información</p>
+    <form>
+        <fieldset>
+            <legend>Formulario</legend>
+            <label>Nombre:</label><input type="text" placeholder="Nombre"><br>
+            <label>Apellidos:</label><input type="text" placeholder="Apellidos"><br>
+            <label>Contraseña:</label><input type="password" placeholder="Contraseña"><br>
+            <label>Sexo:</label>
+                <input type="radio" name="sexo">Hombre
+                <input type="radio" name="sexo">Mujer
+            <br>
+            <label>Email:</label><input type="text" placeholder="email"><br>
+            <input type="checkbox" name="Deseo recibir información sobre novedades y ofertas">Deseo recibir información sobre novedades y ofertas<br>
+            <input type="checkbox" name="Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos<br>
+            <label for="">Comentarios:</label><br>
+            <textarea rows="10" cols="15"></textarea><br>
+        </fieldset>
+        <input type="submit">
+    </form>
+
+</body>
+</html>
