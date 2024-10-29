@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: rgb(95, 29, 128);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #242323;
+}
+.active {
+    background-color: #242323;
+}
+
+body{
+    background-image: url("https://i.ytimg.com/vi/Cg5lWZOWuL8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-DoACuAiKAgwIABABGGAgYChgMA8=&rs=AOn4CLAyxXjs5PifstiwLa8nHfe1LsqFDQ");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.titulo{
+    color: rgb(128, 53, 138);
+}
+.intro{
+    color: rgb(255, 255, 255);
+}
+.color{
+    color: rgb(255, 255, 255);
+}
+.atracciones{
+    color: #000000;
+}
+.Atracciones{
+    color: white;
+}
