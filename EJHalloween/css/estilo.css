@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000000;
+    background-color: #333333;
 }
 li {
     float: left;
@@ -16,10 +16,10 @@ li a {
     text-decoration: none;
 }
 li a:hover:not(.active) {
-    background-color: #242323;
+    background-color: #292828;
 }
 .active {
-    background-color: #242323;
+    background-color: #292828;
 }
 
 body{
@@ -28,7 +28,6 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
-
 .titulo{
     color: rgb(128, 53, 138);
 }
@@ -48,9 +47,12 @@ body{
     color: #000000;
 }
 .Monstruos{
-    color: white;
+    color: rgb(146, 85, 182);
 }
 .logo{
     width: 50px;
     height: 50px;
+}
+.reserva{
+    color: white;
 }
