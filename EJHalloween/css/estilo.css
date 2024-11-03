@@ -32,7 +32,7 @@ body{
     color: rgb(128, 53, 138);
 }
 .intro{
-    color: rgb(255, 255, 255);
+    color: rgb(191, 163, 228);
 }
 .color{
     color: rgb(255, 255, 255);
@@ -41,18 +41,18 @@ body{
     color: #000000;
 }
 .Atracciones{
-    color: white;
+    color: rgb(235, 83, 83);
 }
 .monstruos{
     color: #000000;
 }
 .Monstruos{
-    color: rgb(146, 85, 182);
+    color: rgb(255, 51, 0);
 }
 .logo{
     width: 50px;
     height: 50px;
 }
 .reserva{
-    color: white;
+    color: rgb(210, 185, 241);
 }
