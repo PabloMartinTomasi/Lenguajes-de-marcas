@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE asignaturas PUBLIC "Documento5" "datos.xml">
+<asignaturas>
+<asignatura>
+    <nombre>Lenguaje de Marcas</nombre>
+    <horas>3</horas>
+    <profesor>María Luz</profesor>
+</asignatura>
+
+<asignatura>
+    <nombre>Entornos de Desarollo</nombre>
+    <horas>2</horas>
+    <profesor>María Luz</profesor>
+</asignatura>
+
+<asignatura>
+    <nombre>Herramientas</nombre>
+    <horas>3</horas>
+    <profesor>María Luz</profesor>
+</asignatura>
+
+<asignatura>
+    <nombre>Base de Datos</nombre>
+    <horas>6</horas>
+    <profesor>Amelia</profesor>
+</asignatura>
+
+<asignatura>
+    <nombre>Programación</nombre>
+    <horas>8</horas>
+    <profesor>Miguel</profesor>
+</asignatura>
+
+<asignatura>
+    <nombre>IPE</nombre>
+    <horas>3</horas>
+    <profesor>Diego</profesor>
+</asignatura>
+</asignaturas>
