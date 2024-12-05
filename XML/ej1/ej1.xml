@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<equipos_de_fútbol>
+   <equipo>
+    <nombre>Real Madrid</nombre>
+    <pais>España</pais>
+    <presidente>Florentino Perez</presidente>
+    <entrenador>Carleto Anceloti</entrenador>
+    <titulos>105 títulos</titulos>
+    <maximo_goleador>Cristiano Ronaldo dos Santos Aveiro</maximo_goleador>
+    <mejor_portero>Íker Casillas</mejor_portero>
+   </equipo>
+
+   <equipo>
+    <nombre>Juventus</nombre>
+    <pais>Italia</pais>
+    <presidente>Andrea Agnielli</presidente>
+    <entrenador>Thiago Motta</entrenador>
+    <titulos>71 títulos</titulos>
+    <maximo_goleador>Alessandro Del Piero</maximo_goleador>
+    <mejor_portero>Gianluigi Buffon</mejor_portero>
+   </equipo>
+
+   <equipo>
+    <nombre>Boca Junior</nombre>
+    <pais>Argentina</pais>
+    <presidente>Juan Román Riquelme</presidente>
+    <entrenador>Fernando Gago</entrenador>
+    <titulos>74 títulos</titulos>
+    <maximo_goleador>Roberto Cherro</maximo_goleador>
+    <mejor_portero>Óscar Córdoba</mejor_portero>
+   </equipo>
+</equipos_de_fútbol>
