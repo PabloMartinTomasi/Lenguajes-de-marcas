@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<equipos_de_fútbol>
+<!DOCTYPE equipos SYSTEM "file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej2/DTD.dtd">
+<?xml-stylesheet type="text/xsl" href="file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej2/ej2.xsl"?>
+<equipos>
    <equipo>
     <nombre>Real Madrid</nombre>
     <pais>España</pais>
@@ -8,45 +10,7 @@
     <titulos>105 títulos</titulos>
     <maximo_goleador>Cristiano Ronaldo dos Santos Aveiro</maximo_goleador>
     <mejor_portero>Íker Casillas</mejor_portero>
-    <portero>Tibauth Courtoi</portero>
-    <defensa_central_uno>Antonio Rüdiguer</defensa_central_uno>
-    <defensa_central_dos>Eder Militao</defensa_central_dos>
-    <lateral_derecho>Dani Carvajal</lateral_derecho>
-    <lateral_izquierdo>Fran García</lateral_izquierdo>
-    <centro_campo_uno>Jude Bellingham</centro_campo_uno>
-    <centro_campo_dos>Fede Valverde</centro_campo_dos>
-    <centro_campo_tres>Eduardo Camavinga</centro_campo_tres>
-    <extremo_izquierdo>Vinicius Junior</extremo_izquierdo>
-    <extremo_derecho>Rodrigo Goes</extremo_derecho>
-    <delantero_centro>Kylian Mbapée</delantero_centro>
    </equipo>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
    <equipo>
     <nombre>Juventus</nombre>
@@ -67,4 +31,4 @@
     <maximo_goleador>Roberto Cherro</maximo_goleador>
     <mejor_portero>Óscar Córdoba</mejor_portero>
    </equipo>
-</equipos_de_fútbol>
+</equipos>

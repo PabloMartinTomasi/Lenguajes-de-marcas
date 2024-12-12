@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipos_de_fútbol SYSTEM "file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej1/DTD.dtd">
 <equipos_de_fútbol>
    <equipo>
     <nombre>Real Madrid</nombre>

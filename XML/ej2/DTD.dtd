@@ -1,0 +1,9 @@
+<!ELEMENT equipos_de_futbol (equipo+)>
+<!ELEMENT equipo (nombre, pais, presidente, entrenador, titulos, maximo_goleador, mejor_portero)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT presidente (#PCDATA)>
+<!ELEMENT entrenador (#PCDATA)>
+<!ELEMENT titulos (#PCDATA)>
+<!ELEMENT maximo_goleador (#PCDATA)>
+<!ELEMENT mejor_portero (#PCDATA)>
