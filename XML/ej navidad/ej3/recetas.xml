@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<recetas_cocina>
+    <receta>
+      <nombre>Brazo de gitano</nombre>
+        <ingredientes>
+          <ingrediente cantidad="3">Huevos</ingrediente>
+          <ingrediente cantidad="100" unidad="g">Harina</ingrediente>
+          <ingrediente cantidad="50" unidad="ml">Leche</ingrediente>
+          <ingrediente cantidad="100" unidad="g">Azúcar</ingrediente>
+          <ingrediente cantidad="1" unidad="g">Sal</ingrediente>
+          <ingrediente cantidad="100" unidad="g">Chocolate</ingrediente>
+      </ingredientes>
+      <pasos_preparacion>Precalentar el horno a 180º y forrar una bandeja con papel de horno. En un bol, batir los huevos y el azúcar hasta que la mezcla blanquee y doble el volumen. Tamizar la harina y la pizca de sal sobre la mezcla e integrar con movimientos envolventes. Vertir la mezcla en la bandeja y esparcir bien con una espátula, igualando la superficie.  Al acabar, puedes añadir una capa de chocolate que hayas fundido, y luego le das vueltas a la masa.</pasos_preparacion>
+      <tiempo_estimado>64 minutos</tiempo_estimado>
+      <imagen></imagen>
+    </receta>
+
+    <receta>
+      <nombre>Ramen</nombre>
+        <ingredientes>
+          <ingrediente cantidad="1">Carcasa de pollo(para el caldo)</ingrediente>
+          <ingrediente cantidad="300" unidad="g">Panceta de cerdo en un solo trozo(para el caldo)</ingrediente>
+          <ingrediente cantidad="2">Puerro solo la parte verde(para el caldo)</ingrediente>
+          <ingrediente cantidad="100" unidad="g">Harina</ingrediente>
+      </ingredientes>
+      <pasos_preparacion></pasos_preparacion>
+      <tiempo_estimado></tiempo_estimado>
+      <imagen></imagen>
+    </receta>
+
+    <receta>
+      <nombre></nombre>
+        <ingredientes>
+          
+      </ingredientes>
+      <pasos_preparacion></pasos_preparacion>
+      <tiempo_estimado></tiempo_estimado>
+      <imagen></imagen>
+    </receta>
+
+    <receta>
+      <nombre></nombre>
+        <ingredientes>
+          
+      </ingredientes>
+      <pasos_preparacion></pasos_preparacion>
+      <tiempo_estimado></tiempo_estimado>
+      <imagen></imagen>
+    </receta>
+</recetas_cocina>

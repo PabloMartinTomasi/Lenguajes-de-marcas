@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario SYSTEM "file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej%20navidad/ej2/videojuegos.dtd">
+<?xml-stylesheet type="text/xsl" href="file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej%20navidad/ej2/videojuegos.xsl"?>
+<inventario>
+    <videojuegos>
+      <nombre>Rust</nombre>
+      <plataforma>PS4, Microsoft Windows, Linux, Mac OS, macOS, Xbox One</plataforma>
+      <genero>Videojuego de supervivencia</genero>
+      <desarollador>Facepunch Studios, Double Eleven</desarollador>
+      <precio>28,84</precio>
+      <fecha_lanzamiento>11 de diciembre de 2013</fecha_lanzamiento>
+      <imagen></imagen>
+    </videojuegos>
+    
+    <videojuegos>
+      <nombre>Ark: Survival Evolved</nombre>
+      <plataforma>Linux, Microsoft Windows, OS X, Xbox One PlayStation 4, Nintendo Switch, Android. iOS</plataforma>
+      <genero>	Acción-aventura, supervivencia, Mundo abierto</genero>
+      <desarollador>Studio Wildcard, Instinct Games, Efecto Studios</desarollador>
+      <precio>14,47</precio>
+      <fecha_lanzamiento>29 de agosto de 2017</fecha_lanzamiento>
+      <imagen></imagen>
+    </videojuegos>
+    
+    <videojuegos>
+      <nombre>Minecraft</nombre>
+      <plataforma>PS4, PS5, Microsoft Windows, Linux, Mac OS, macOS, Xbox One</plataforma>
+      <genero>Supervivencia, Mundo abieto</genero>
+      <desarollador>Mojang </desarollador>
+      <precio>20</precio>
+      <fecha_lanzamiento>2009</fecha_lanzamiento>
+      <imagen></imagen>
+    </videojuegos>
+    
+    <videojuegos>
+      <nombre>Grand Theft Auto V</nombre>
+      <plataforma>	Xbox 360, PlayStation 3, Xbox One, PlayStation 4, Microsoft Windows, Xbox Series X|S, PlayStation 5</plataforma>
+      <genero>Acción-Aventura, Disparos en tercera persona, Mundo abierto</genero>
+      <desarollador>Rockstar North</desarollador>
+      <precio>21,99</precio>
+      <fecha_lanzamiento>17 de septiembre de 2013</fecha_lanzamiento>
+      <imagen></imagen>
+    </videojuegos>
+    
+    <videojuegos>
+      <nombre>FC 25</nombre>
+      <plataforma>	Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S</plataforma>
+      <genero>	Deportes</genero>
+      <desarollador>EA Vancouver, EA Rumania</desarollador>
+      <precio>49,99</precio>
+      <fecha_lanzamiento>27 de septiembre de 2024</fecha_lanzamiento>
+      <imagen></imagen>
+    </videojuegos>
+</inventario>

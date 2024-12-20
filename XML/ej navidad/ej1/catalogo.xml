@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogo SYSTEM "file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej%20navidad/ej1/catalogo.dtd">
+<?xml-stylesheet type="text/xsl" href="file:/C:/Programacion_H2_1T_Pablo_Martin_Tomasi/Lenguajes-de-marcas/XML/ej%20navidad/ej1/catalogo.xsl"?>
+<catalogo>
+    <pelicula>
+      <titulo>El hobbit: un viaje inesperado</titulo>
+      <anio>2012</anio>
+      <genero>Cine de aventuras, género de acción, fantasía</genero>
+      <director>Peter Jackson</director>
+      <duracion>169 minutos</duracion>
+      <valoracion>9.6/10</valoracion>
+      <imagen>imagen/ElHobbitU.jpg</imagen>
+    </pelicula>
+    
+    <pelicula>
+      <titulo>El hobbit: la desolación de Smaug</titulo>
+      <anio>2013</anio>
+      <genero>Cine de aventuras, género de acción, fantasía</genero>
+      <director>Peter Jackson</director>
+      <duracion>161</duracion>
+      <valoracion>9/10</valoracion>
+      <imagen>imagen/ElHobbitD.jpg</imagen>
+    </pelicula>
+
+  <pelicula>
+      <titulo>El hobbit: la batalla de los cinco ejercitos</titulo>
+      <anio>2014</anio>
+      <genero>Cine de aventuras, género de acción, fantasía</genero>
+      <director>Peter Jackson</director>
+      <duracion>144</duracion>
+      <valoracion>9.2/10</valoracion>
+      <imagen>imagen/ElHobbitT.jpg</imagen>
+    </pelicula>
+</catalogo>

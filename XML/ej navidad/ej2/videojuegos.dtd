@@ -1,0 +1,9 @@
+<!ELEMENT inventario (videojuegos+)>
+<!ELEMENT videojuegos (nombre, plataforma, genero, desarollador, precio, fecha_lanzamiento, imagen)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT plataforma (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT desarollador (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT fecha_lanzamiento (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>

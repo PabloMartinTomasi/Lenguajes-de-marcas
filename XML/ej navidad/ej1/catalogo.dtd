@@ -1,0 +1,9 @@
+<!ELEMENT catalogo (pelicula+)>
+<!ELEMENT pelicula (titulo, anio, genero, director, duracion, valoracion, imagen)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT valoracion (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>
