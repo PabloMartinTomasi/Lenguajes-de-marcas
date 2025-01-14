@@ -1,0 +1,9 @@
+{
+    "curso":"1ºDAM",
+    "tutor":"Amelia",
+    "centro":"CampusFP Getafe",
+    "EsOficial":"true",
+    "asignaturas":["LM", "Programación", "Entornor", "Bases de Datos", "Optativa", "IPE", "Sistemas Infórmaticos"],
+    "numeroAlumnos":25
+}
+
