@@ -1,0 +1,34 @@
+[
+  {
+    "nombre" : "Courtois",
+    "edad" : 32,
+    "Europeo" : true,
+    "poscicion" : "Portero",
+    "valor" : 25000000
+  },
+
+  {
+    "nombre" : "Carvajal",
+    "edad" : 33,
+    "Europeo" : true,
+    "poscicion" : "Defensa",
+    "valor" : 10000000
+  },
+
+  {
+    "nombre" : "E.Militão",
+    "edad" : 27,
+    "Europeo" : false,
+    "poscicion" : "Defensa",
+    "valor" : 40000000
+  },
+
+  {
+    "nombre" : "Rüdiguer",
+    "edad" : 32,
+    "Europeo" : true,
+    "poscicion" : "Defensa",
+    "valor" : 24000000
+  }
+
+]
